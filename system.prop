@@ -6,10 +6,3 @@ ro.telephony.default_network=9
 #Display Traditional Chinese/Simplified Chinese carriers name
 persist.radio.use_cc_names=true
 
-# hardware info
-ro.device.chipset=ro.device.cpu=Qualcomm Snapdragon S4 Pro
-ro.device.cpu=1.51 GHz quad-core Krait 300
-ro.device.gpu=Adreno 320
-ro.device.rear_cam=5.0 MP
-ro.device.front_cam=1.2 MP
-ro.device.screen_res=7.02 inch 1920×1200 pixels
