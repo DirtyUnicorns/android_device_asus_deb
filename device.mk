@@ -26,10 +26,6 @@ PRODUCT_COPY_FILES := \
 PRODUCT_PACKAGES += \
 	camera.deb
 
-# Boot Animation 
-PRODUCT_COPY_FILES += \
-	vendor/du/bootanimations/bootanimation_1080_1920.zip:system/media/bootanimation.zip	
-
 #NFC
 PRODUCT_PACKAGES += \
     nfc_nci.deb
